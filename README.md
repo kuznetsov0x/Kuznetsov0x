@@ -31,7 +31,6 @@ Systems developer and digital investigator specializing in cybersecurity and for
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-252525?style=flat" />
-  <img src="https://img.shields.io/badge/Forensics-2C3E50?style=flat" />
 </p>
 
 ---
