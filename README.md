@@ -1,7 +1,7 @@
 # Hello, I'm Kuznetsov
 
 <p align="center">  
-  <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" alt="Terminal Hacker" width="400"/>  
+  <img src="profile.gif" alt="Terminal Hacker" width="400"/>  
 </p>
 
 ---
