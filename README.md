@@ -56,7 +56,7 @@ Systems developer and digital investigator specializing in cybersecurity and for
 
 **Social Media:**  
 - Twitter: @kuznetsov0x
-- Instagram: @kuznetsov0x
+- Instagram: @jxhnwz_
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kuznetsov0x&label=Profile%20views&color=555555&style=flat" alt="Profile views" />
