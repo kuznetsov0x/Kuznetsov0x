@@ -52,7 +52,7 @@ Systems developer and digital investigator specializing in cybersecurity and for
 - Discord: (suspended - new account coming soon)
 
 **Personal Website:**  
-- [Kuznetsov Links Center](https://kuznetsov.glitch.me)  
+- [Kuznetsov Links Center](https://kuznetsov.netlify.app/)
 
 **Social Media:**  
 - Twitter: @kuznetsov0x
