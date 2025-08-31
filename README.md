@@ -1,5 +1,7 @@
 # Hello, I'm Kuznetsov
 
+The game is over. Now comes the carnage.
+
 <p align="center">  
   <img src="profile.gif" alt="Terminal Hacker" width="400"/>  
 </p>
@@ -8,7 +10,7 @@
 
 ## About Me
 
-Systems developer and digital investigator specializing in cybersecurity and forensic analysis. Experienced in reverse engineering, secure systems development, and digital incident investigation. Focused on low-level languages and forensic analysis techniques.
+Cybersecurity and Programming student. Focused on vulnerability exploitation and offensive tool development. This profile is an arsenal.
 
 ---
 
@@ -49,7 +51,7 @@ Systems developer and digital investigator specializing in cybersecurity and for
 
 **Personal Contact:**  
 - Email: kuznetsov0x@proton.me 
-- Discord: (suspended - new account coming soon)
+- Discord: kuznetsov0x
 
 **Personal Website:**  
 - [Kuznetsov Links Center](https://kuznetsov.netlify.app/)
