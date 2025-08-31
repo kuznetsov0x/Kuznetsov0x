@@ -3,7 +3,7 @@
 The game is over. Now comes the carnage.
 
 <p align="center">  
-  <img src="profile.gif" alt="Terminal Hacker" width="400"/>  
+  <img src="Pentagram.png" alt="Pentagram" width="400"/>  
 </p>
 
 ---
@@ -11,29 +11,6 @@ The game is over. Now comes the carnage.
 ## About Me
 
 Cybersecurity and Programming student. Focused on vulnerability exploitation and offensive tool development. This profile is an arsenal.
-
----
-
-## Technologies and Tools
-
-### Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Assembly-8E0E00?style=flat&logo=assemblyscript&logoColor=white" />
-</p>
-
-### Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-252525?style=flat" />
-</p>
 
 ---
 
